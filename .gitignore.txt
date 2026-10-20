@@ -1,0 +1,17 @@
+# Datasets
+data/
+*.tar.gz
+
+# Model Weights and History
+*.pth
+models/
+
+# Python Cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+env/
