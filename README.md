@@ -30,7 +30,7 @@ The training loss curves clearly illustrate the degradation problem. The **Deep 
 ## Repository Structure
 * `/notebooks`: Contains the main Jupyter notebook with the full pipeline.
 * `/plots`: Visualizations of training/validation accuracy and loss.
-* `/docs`: Contains `ResNet-18_and_the_Degradation_Proof.pdf`, detailing the theoretical background.
+* `/docs`: Contains `ResNet-18_and_the_Degradation_Proof.pdf`
 
 ## Installation & Usage
 1. Clone this repository:
